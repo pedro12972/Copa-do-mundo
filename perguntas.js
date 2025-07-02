@@ -30,3 +30,4 @@ criaCartao(
     'Copa do mundo',
     'Qual foi a primeira vez que a Copa do Mundo sediou no Brasil?',
     '1950'
+)
